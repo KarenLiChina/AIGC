@@ -15,3 +15,6 @@ pip install -r requirements.txt
 
 ## ai生成文本数据，下载依赖包langchain_experimental
 ai_generate_text_data.py
+
+## 生成结构化数
+ai_generate_structure_data.py
