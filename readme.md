@@ -18,3 +18,7 @@ ai_generate_text_data.py
 
 ## 生成结构化数 
 ai_generate_structure_data.py
+
+
+## 提取结构化的文本分类属性
+text_classification.py
