@@ -30,3 +30,4 @@ text_classification.py
 3. 细化（Refine），通过顺序迭代文档来更新滚动摘要，先生成第一个文档块的摘要，然后将这个摘要和下一个文档块一起交给大模型处理，不断迭代指导最后得出答案。连贯性优于Map-reduce。
 summary_document_stuff.py
 summary_document_map_reduce.py
+summary_document_refine.py
